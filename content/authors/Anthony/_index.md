@@ -1,29 +1,29 @@
 ---
 # Display name
-title: 吳恩達
+title: Anthony Peruma
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- Anthony
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Rochester Institute of Techonology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Anthony has to fill this in
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Software Maintenance
+- Program Comprehension
+- Natural Language Processing
 
 education:
   courses:
@@ -67,7 +67,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

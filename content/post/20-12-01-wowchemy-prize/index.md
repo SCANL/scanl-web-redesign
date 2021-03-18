@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: "On the Naming of Methods: A Survey of Professional Developers was accepted for publication at ICSE 2021!"
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Congratulations to Reem! "On the Naming of Methods:\ A Survey of Professional Developers was accepted for publication at ICSE 2021!" was accepted for publication at ICSE 2021
 
 <!--more-->
 

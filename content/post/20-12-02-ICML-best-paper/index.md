@@ -1,9 +1,9 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: Using Grammar Patterns to Interpret Test Method Name Evolution was accepted for publication at ICPC 2021!
 date: 2020-12-02
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Our paper: "Using Grammar Patterns to Interpret Test Method Name Evolution" was accepted for publication at The 29th IEEE/ACM International Conference on Program Comprehension (ICPC 2021).
 
 <!--more-->
 

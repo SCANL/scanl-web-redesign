@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Comprehensive Study of Autonomous Vehicle Bugs
+title: "On the Naming of Methods: A Survey of Professional Developers"
 subtitle: ''
 summary: ''
 authors:
